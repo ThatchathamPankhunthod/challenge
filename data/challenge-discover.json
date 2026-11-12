@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.0",
+  "id": "PU-DISCOVER-001",
+  "creatorGroup": "POWER-UP",
+  "title": "AI Prompt Explorer",
+  "description": "ทดลองใช้ AI ช่วยสร้างไอเดียเว็บไซต์ และเปรียบเทียบผลลัพธ์จาก Prompt สองรูปแบบ",
+  "category": "discover",
+  "instructions": [
+    "เลือกหัวข้อเว็บไซต์ที่สนใจหนึ่งหัวข้อ",
+    "เขียน Prompt สั้น ๆ เพื่อให้ AI เสนอแนวคิดเว็บไซต์",
+    "ปรับ Prompt ให้ระบุผู้ใช้เป้าหมายและฟังก์ชันให้ชัดเจนขึ้น",
+    "เปรียบเทียบผลลัพธ์และจดสิ่งที่แตกต่าง"
+  ],
+  "estimatedMinutes": 10,
+  "evidencePrompt": "แนบภาพหรือ URL ผลลัพธ์จาก Prompt ทั้งสองแบบ พร้อมอธิบายว่าการปรับคำสั่งทำให้ผลลัพธ์ดีขึ้นอย่างไร",
+  "tags": [
+    "AI",
+    "Prompt",
+    "Creativity"
+  ]
+}

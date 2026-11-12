@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.0",
+  "id": "PU-LEVELUP-001",
+  "creatorGroup": "POWER-UP",
+  "title": "One Step Better",
+  "description": "เลือกผลงานเดิมหนึ่งชิ้นแล้วปรับปรุงให้ดีขึ้นอย่างน้อยหนึ่งจุด",
+  "category": "levelup",
+  "instructions": [
+    "เลือกผลงานหรือชิ้นงานเดิมที่เคยทำ",
+    "ระบุจุดที่ต้องการปรับปรุงหนึ่งจุด",
+    "ลงมือปรับปรุงภายในเวลาที่กำหนด",
+    "เปรียบเทียบก่อนและหลังการปรับปรุง"
+  ],
+  "estimatedMinutes": 10,
+  "evidencePrompt": "แนบหลักฐานก่อนและหลัง พร้อมอธิบายว่าปรับอะไรและผลลัพธ์ดีขึ้นอย่างไร",
+  "tags": [
+    "Improvement",
+    "Reflection",
+    "ProblemSolving"
+  ]
+}
